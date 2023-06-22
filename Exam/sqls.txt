@@ -1,0 +1,4 @@
+Add-Migration Initial -Context ApplicationContext
+Update-Database -Context ApplicationContext
+Scaffold-DbContext "Host=localhost;Port=5432;Database=postgres;Username=postgres;Password=postgres"
+Npgsql.EntityFrameworkCore.PostgreSQL

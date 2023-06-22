@@ -1,0 +1,11 @@
+./Exam/bin/
+./Exam/obj/
+.vs
+Exam/obj/project.nuget.cache
+Exam/obj/project.assets.json
+Exam/obj/Exam.csproj.nuget.g.targets
+Exam/obj/Exam.csproj.nuget.g.props
+Exam/obj/Exam.csproj.nuget.dgspec.json
+Exam/obj/Debug/net6.0-windows/refint/Exam.dll
+Exam/obj/Debug/net6.0-windows/ref/Exam.dll
+Exam/obj/Debug/net6.0-windows/Exam.pdb
